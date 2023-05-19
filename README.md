@@ -1,4 +1,4 @@
-### Hi there 👋, I am Janis Skeps!
+### Hi there 👋, I am Jānis!
 
 <!--
 **rncs92/rncs92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
