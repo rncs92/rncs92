@@ -6,6 +6,9 @@ Passionate about programming and driven to excel as a full-stack/back-end PHP de
 I am excited about the possibilities that lie ahead in the field of programming and look forward to leveraging my passion and dedication to make a significant impact. Let's connect and explore how we can collaborate to create remarkable solutions.
 
 ---
+📘<b>Latest Projects</b>
+
+---
 🧰 <b>Toolbox</b>
 
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-bartzaalberg-php-tester-icon.png" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="PHP Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="PHP Logo" width="50" height="50"/>
