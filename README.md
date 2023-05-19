@@ -8,6 +8,12 @@ I am excited about the possibilities that lie ahead in the field of programming 
 ---
 📘<b>Latest Projects</b>
 
+<a href="https://github.com/rncs92/Rick-Morty_API">Rick and Morty Encyclopedia</a> - developed a News Feed webpage utilizing the JSONPlaceholder API and incorporating a placeholder image service. The webpage follows the MVC architecture, employing cache systems, services, and repositories for efficient data management. Users can filter articles and users using a console application, which also facilitates testing procedures. Through this project, I gained hands-on experience in API integration, data manipulation, and building dynamic webpages. The implementation of MVC architecture and testing capabilities highlights my commitment to creating well-structured, maintainable, and thoroughly tested applications.
+
+<a href="https://github.com/rncs92/Rick-Morty_API">Rick and Morty Encyclopedia</a> - Developed a Rick and Morty themed webpage that incorporates cache systems. By implementing caching mechanisms, I optimized the performance of the webpage, ensuring faster data retrieval and improved user experience. This project not only showcased my proficiency in utilizing advanced programming techniques but also demonstrated my ability to create robust and efficient web applications with search and filtering tools.
+
+<a href="https://github.com/rncs92/GYPHY_Api">Gifs webpage using GYPHY Api</a> - I have successfully developed a webpage leveraging the GIPHY API. This project involved integrating the GIPHY API to fetch and display dynamic and interactive GIFs on the webpage. Through this experience, I gained proficiency in working with APIs, handling data responses, and implementing engaging visual content. This project not only showcased my technical abilities but also highlighted my creativity in building captivating web experiences.
+
 ---
 🧰 <b>Toolbox</b>
 
